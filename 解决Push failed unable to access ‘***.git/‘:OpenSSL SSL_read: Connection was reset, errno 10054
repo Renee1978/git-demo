@@ -1,0 +1,5 @@
+记录一次项目push到git上面一直失败后的处理办法,
+
+在idea终端执行下面的命令
+
+git config --global http.sslBackend "openssl"
